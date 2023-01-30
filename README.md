@@ -1,10 +1,11 @@
 # Assimilate ONNX
 A good starting point for a new Rust project
 
-### Day 1:  Demo Sonos/Tract
+### Day 1:  Demo Sonos/Tract and Rust Wrapper Onnx
 
-https://github.com/sonos/tract
+* https://github.com/sonos/tract
+* https://github.com/nbigaouette/onnxruntime-rs
+* https://github.com/microsoft/onnxruntime
 
 ## References
 
-* [rust-cli-template](https://github.com/kbknapp/rust-cli-template)
